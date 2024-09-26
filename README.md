@@ -1,6 +1,9 @@
-Haikal Mahmudi - JWD B 
+CAPSTONE PROJECT
 
+TRAVEL WEBSITE-BEAUTIFUL OF CIWIDEY
+The features that include is
+- Landing Page
+- Form
+- Database (SQL)
 
-UNTUK ADMIN LOGIN
-username: adminWisata
-password: SukaWisata16
+Using PHP Native, Bootstrap, MySQL, HTML, CSS
